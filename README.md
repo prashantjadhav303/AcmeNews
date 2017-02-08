@@ -1,5 +1,4 @@
 >>>>>Application For News Feed<<<<
  Description:
  
- News feed from URL.
- 
+ News feed from URL. 

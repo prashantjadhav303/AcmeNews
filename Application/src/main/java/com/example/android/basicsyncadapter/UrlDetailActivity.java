@@ -7,6 +7,11 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
+/*
+Activity contains web view which opens the URL
+*/
+
+
 public class UrlDetailActivity extends Activity {
         String articleurl="";
 

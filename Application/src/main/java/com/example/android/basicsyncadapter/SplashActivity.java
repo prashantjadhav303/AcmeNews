@@ -10,6 +10,8 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
+/*Activity creates the splash with animation */
+
 public class SplashActivity extends Activity {
 
 

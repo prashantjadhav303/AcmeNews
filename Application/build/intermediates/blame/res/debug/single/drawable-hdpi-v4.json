@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_img.png",
+        "source": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\drawable-hdpi\\splash_img.png"
+    },
+    {
+        "merged": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tile.9.png",
+        "source": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

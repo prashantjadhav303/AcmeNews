@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
+        "source": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\xml\\syncadapter.xml"
+    }
+]

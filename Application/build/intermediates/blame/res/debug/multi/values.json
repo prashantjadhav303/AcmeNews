@@ -1,0 +1,705 @@
+[
+    {
+        "outputFile": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 64,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 120,
+                    "endColumn": 60,
+                    "endOffset": 176
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 181,
+                    "endColumn": 61,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 61,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endColumn": 61,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 61,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 305,
+                    "endColumn": 63,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 63,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 2750,
+                    "endColumn": 54,
+                    "endOffset": 2800
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 54,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 2805,
+                    "endColumn": 57,
+                    "endOffset": 2858
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 2863,
+                    "endColumn": 55,
+                    "endOffset": 2914
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2919,
+                    "endColumn": 58,
+                    "endOffset": 2973
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 58,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2978,
+                    "endColumn": 56,
+                    "endOffset": 3030
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 56,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 3035,
+                    "endColumn": 53,
+                    "endOffset": 3084
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1105,
+                        "endColumn": 53,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 3089,
+                    "endColumn": 42,
+                    "endOffset": 3127
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\gridlayout-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 1751,
+                        "endColumn": 42,
+                        "endOffset": 1789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 3132,
+                    "endColumn": 69,
+                    "endOffset": 3197
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 69,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 3202,
+                    "endColumn": 58,
+                    "endOffset": 3256
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 58,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3261,
+                    "endColumn": 42,
+                    "endOffset": 3299
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 42,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3304,
+                    "endColumn": 43,
+                    "endOffset": 3343
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 43,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3348,
+                    "endColumn": 44,
+                    "endOffset": 3388
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 44,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3393,
+                    "endColumn": 42,
+                    "endOffset": 3431
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 42,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3436,
+                    "endColumn": 41,
+                    "endOffset": 3473
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 41,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3478,
+                    "endColumn": 67,
+                    "endOffset": 3541
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 427,
+                        "endColumn": 67,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3546,
+                    "endColumn": 57,
+                    "endOffset": 3599
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 57,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3604,
+                    "endColumn": 41,
+                    "endOffset": 3641
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 41,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3646,
+                    "endColumn": 55,
+                    "endOffset": 3697
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 55,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3702,
+                    "endLine": 41,
+                    "endColumn": 13,
+                    "endOffset": 4197
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endLine": 17,
+                        "endColumn": 13,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4202,
+                    "endColumn": 55,
+                    "endOffset": 4253
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 55,
+                        "endOffset": 225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4258,
+                    "endColumn": 59,
+                    "endOffset": 4313
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 59,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4318,
+                    "endColumn": 50,
+                    "endOffset": 4364
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 51,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4369,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 4778
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4783,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 4842
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1573,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4847,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 4968
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4973,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 5096
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5101,
+                    "endColumn": 59,
+                    "endOffset": 5156
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 60,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5161,
+                    "endColumn": 52,
+                    "endOffset": 5209
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 53,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5214,
+                    "endColumn": 26,
+                    "endOffset": 5236
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 27,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5241,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 5432
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5437,
+                    "endLine": 72,
+                    "endColumn": 12,
+                    "endOffset": 5710
+                },
+                "from": {
+                    "file": "C:\\Users\\prashant.d.jadhav\\Downloads\\BasicSyncAdapter\\AcmeNews\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    }
+]
